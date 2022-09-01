@@ -1,0 +1,10 @@
+tabPing: false
+tabPingTime: 20
+prefix: '&7[&aPing&7] '
+yourPing: '&aYour ping: &e%ping ms'
+otherPing: '%player&a''s Ping: &e%ping'
+allPings: '&7-= &aAll pings &7=-'
+noPermissions: '%prefix&cYou don''t have the permissions'
+notOnline: '%prefix&cThis player is not online'
+auto-update: false
+search-for-update: true

@@ -1,0 +1,7 @@
+min-distance: 400
+max-distance: 2499
+cooldown-time: 960
+log-teleports: true
+tp-message: '&aYou have travelled &c&l{distance} &ablocks'
+not-player-message: '&4You have to be a player to use that command'
+not-permissions-message: '&4You don''t have the permissions to use that command'

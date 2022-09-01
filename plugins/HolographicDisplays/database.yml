@@ -1,0 +1,5 @@
+spawnmessage:
+  location: world, 0.300, 124.000, 0.591
+  lines:
+  - Welcome to PVP Pre-Configured Server!
+  - If you want leave the spawn, use /rtp

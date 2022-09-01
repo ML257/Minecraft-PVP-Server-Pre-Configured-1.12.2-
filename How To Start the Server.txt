@@ -1,0 +1,31 @@
+If you are new to the topic of servers and do not know how to start it, I have two options for you
+
+1-From the folder
+
+For this you must enter the server folder and holding Shift + right click a list of options will open, you will click "open command window here".
+
+The command window will open in which you must write the following: "java -jar (server file name). jar"
+
+Examples:
+
+Java -jar paper-1.12.2-1620.jar
+
+With Custom Ram:
+
+java -Xmx1000M -Xms1000M -jar paper-1.12.2-1620.jar
+
+Note: The RAM to dedicate will depend on how much the computer has (Recommended to use half or less of the PC's ram)
+
+2-Create an executable (Windows)
+
+For this you will have to create a text file and inside it paste this code:
+
+@echo off
+java -Dfile.encoding=UTF8 -Xmx1000M -Xms1000M -jar (server filename).jar
+pause
+
+Then you will give it to save and in the name of the file you will put something like: Start.bat (it is important to always place the .bat at the end)
+
+----------------------------------------------------------------------------------------------------------
+
+Note: all the ways to start the server is taking into account that you will do it from your pc, in hosters they are different methods depending on each host
