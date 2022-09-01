@@ -49,7 +49,7 @@ Software: PaperMC
 
 2-LuckPerms: Add Permissions to Specific groups and players (Staff,Mod, Admin, Owner,etc..)
 
--Server.Properties Config Preview:
+### Server.Properties Config Preview:
 
 spawn-protection=0
 
