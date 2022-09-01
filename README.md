@@ -1,7 +1,7 @@
-### Information
+### Basic Information
 This is a Basic Minecraft PVP Server Pre-Configured for version 1.12.2, this server contains various plugins with their configurations, in the case of the world it is a survival world limited by the WorldBorder to 2500x2500, in 0 0 there is a box crystal which is the spawn which is protected and there is no pvp, from which players will exit using a command from one of the plugins (optional).
 
--Server Details:
+### Server Details:
 
 MC Version: 1.12.2
 
@@ -15,7 +15,7 @@ RAM Set: Your Preference
 
 Software: PaperMC
 
--List of integrated plugins (Configurable):
+### List of integrated plugins (Configurable):
 
 (1)-BetterSleeping: Allows a specific number of players to spend the night or storms (configurable)
 
@@ -43,7 +43,7 @@ Software: PaperMC
 
 (13)-WorldGuard: Protection tools
 
--Plugins Recommended to add:
+### Plugins Recommended to add:
 
 1-Negativity: A free anti-cheat plugin
 
@@ -122,10 +122,12 @@ prevent-proxy-connections=false
 enable-rcon=false
 
 motd=PVP Server Pre-Configured
-=======
+
+### How To Start the server in your Computer
+
 If you are new to the topic of servers and do not know how to start it, I have two options for you
 
-1-From the folder
+### 1-From the folder
 
 For this you must enter the server folder and holding Shift + right click a list of options will open, you will click "open command window here".
 
@@ -141,7 +143,7 @@ java -Xmx1000M -Xms1000M -jar paper-1.12.2-1620.jar
 
 Note: The RAM to dedicate will depend on how much the computer has (Recommended to use half or less of the PC's ram)
 
-2-Create an executable (Windows)
+### 2-Create an executable (Windows)
 
 For this you will have to create a text file and inside it paste this code:
 
