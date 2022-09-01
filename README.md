@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+### Information
 This is a Basic Minecraft PVP Server Pre-Configured for version 1.12.2, this server contains various plugins with their configurations, in the case of the world it is a survival world limited by the WorldBorder to 2500x2500, in 0 0 there is a box crystal which is the spawn which is protected and there is no pvp, from which players will exit using a command from one of the plugins (optional).
 
 -Server Details:
