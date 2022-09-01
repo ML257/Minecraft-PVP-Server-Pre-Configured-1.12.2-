@@ -50,7 +50,7 @@ Software: PaperMC
 2-LuckPerms: Add Permissions to Specific groups and players (Staff,Mod, Admin, Owner,etc..)
 
 ### Server.Properties Config Preview:
-
+```
 spawn-protection=0
 
 generator-settings=
@@ -122,6 +122,7 @@ prevent-proxy-connections=false
 enable-rcon=false
 
 motd=PVP Server Pre-Configured
+```
 
 ### How To Start the server in your Computer
 
